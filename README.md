@@ -20,6 +20,7 @@ Problems available at : https://cses.fi/problemset/list/
 8) Distance Queries   : Binary Lifting.
 
 
+https://codeforces.com/blog/entry/79048
 
 
 
